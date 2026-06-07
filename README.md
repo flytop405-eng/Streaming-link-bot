@@ -1,2 +1,0 @@
-# Streaming-link-bot
-Hi
